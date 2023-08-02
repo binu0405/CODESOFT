@@ -20,15 +20,10 @@
 - Responsive Web Design 
 - Html, CSS, Javascript
 
-## [Ludo Game](https://github.com/binu0405/Ludo-Advance-Game) 🔗
-- A Ludo Game.
+## [snake Game](https://github.com/binu0405/Snake-Game) 🔗
+- A snake Game.
 - HTML, CSS, Javascript
-<!-- - Hosted on [Github Pages](https://github.com/binu0405/Ludo-Advance-Game)  -->
-
-## [snack Game](https://github.com/binu0405/Snack-Game) 🔗
-- A snack Game.
-- HTML, CSS, Javascript
-<!-- - Hosted on [Github Pages](https://github.com/binu0405/Snack-Game)  -->
+<!-- - Hosted on [Github Pages](https://github.com/binu0405/Snake-Game)  -->
 
 ## [E-commerce Website Using ReactJs]() 🔗
 - Developed an e-commerce website using React JS as the front-end framework.
@@ -43,6 +38,7 @@
 - Used Git for version control and deployed the site using GitHub Pages.
 - Responsive Web Design 
 - React Js
+- Hosted on [Netlify](https://binal-portfolio.netlify.app/) 
 
 ## [ChatGPT Using MERN Stack]() 🔗
 - Work in Progress
